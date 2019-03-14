@@ -26,4 +26,8 @@ https://itnext.io/building-a-chatbot-with-rasa-9c3f3c6ad64d
 building sample chatbot with rasa is done using the above link
 
 
+https://rasa.com/docs/nlu/0.9.2/tutorial/
+
+
+rasa_nlu tutorial.Try http server in this for deploying web based localhost with rasa
 
