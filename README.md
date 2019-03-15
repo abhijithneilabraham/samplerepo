@@ -1,6 +1,4 @@
-# Kodekochikode
-Repo we will be using to complete the kodekochikode hackathon
-
+sample repo to use for hackathons
 
 
 https://www.gupshup.io/developer/docs/bot-platform/guide/a-hello-world-bot
